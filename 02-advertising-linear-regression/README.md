@@ -38,3 +38,34 @@ media channels and corresponding product sales.
 
 Through this project, I practiced the basic supervised machine learning
 workflow and learned how to train and evaluate a Linear Regression model.
+
+## Model Results
+
+The Linear Regression model was evaluated using Mean Absolute Error (MAE),
+Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
+
+| Metric | Value |
+|---|---:|
+| MAE | 1.27 |
+| MSE | 2.91 |
+| RMSE | 1.71 |
+| R² Score | 0.91 |
+
+## Skills Practiced
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Exploratory Data Analysis
+- Train-Test Split
+- Linear Regression
+- Model Evaluation
+
+## Project Structure
+
+```text
+02-advertising-linear-regression/
+├── Advertising-Sales-Prediction-Linear-Regression.ipynb
+└── README.md
